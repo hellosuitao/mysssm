@@ -1,0 +1,7 @@
+com\ruixun\entity\Traveller.class
+com\ruixun\entity\Orders.class
+com\ruixun\entity\Permission.class
+com\ruixun\entity\Role.class
+com\ruixun\entity\Member.class
+com\ruixun\entity\Product.class
+com\ruixun\entity\UserInfo.class

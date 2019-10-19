@@ -1,0 +1,6 @@
+com\ruixun\service\impl\OrdersServiceImpl.class
+com\ruixun\service\ProductService.class
+com\ruixun\service\impl\ProductServiceImpl.class
+com\ruixun\service\impl\UserServiceImpl.class
+com\ruixun\service\OrdersService.class
+com\ruixun\service\UserService.class

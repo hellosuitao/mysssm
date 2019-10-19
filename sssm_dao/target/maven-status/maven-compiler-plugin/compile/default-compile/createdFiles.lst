@@ -1,0 +1,6 @@
+com\ruixun\dao\RoleDao.class
+com\ruixun\dao\OrdersDao.class
+com\ruixun\dao\TravellerDao.class
+com\ruixun\dao\UserDao.class
+com\ruixun\dao\ProductDao.class
+com\ruixun\dao\MemberDao.class
